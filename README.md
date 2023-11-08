@@ -8,5 +8,6 @@ This Plan Includes the following:
 - The triggers that are happening on these pages and can generate data that can be collected to indicate certain information
 - The tools used to collect the data
 - The data being collected and how can it be useful to us
+- What Data needs to be sent to the tools used
   
 This Measurement plan is supoosed to give us a full picture of the whole process of data collection for specific key information that can measure the perofimance of the website, highlight porblems, and work on imrpovements.
